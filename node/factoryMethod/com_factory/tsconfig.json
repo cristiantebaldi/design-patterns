@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleDetection": "legacy",
+    "isolatedModules": false,
+    "strict": true
+  },
+  "include": ["./**/*.ts"]
+}
